@@ -16,7 +16,6 @@ depends: [
   "dune" {build & >= "1.1.1"}
   "lwt_log" {>= "1.1.0"}
   "cohttp-lwt-unix" {>= "1.0.2"}
-  "websocket-lwt" {= "2.13"}
 ]
 synopsis: "Websocket library (Lwt)"
 description: """
